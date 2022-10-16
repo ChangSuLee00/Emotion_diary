@@ -1,0 +1,6 @@
+{
+  "site": "cslee-project",
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
